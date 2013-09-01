@@ -12,4 +12,4 @@ These parameters should be set somewhere in the parameter hierarchy (globally, d
 `root_ssh_pubkey` (optional): the pubkey of a recovery key that can be used early in the provisioning process to access the host being provisioned. This is useful for tweaking the contents of a provisioning template and watching the result.
 
 ### Snippets
-There is a template in this repository that should be configured as a snippet: `puppet.confx` Make sure to add it to your Foreman instance.
+There is a template in this repository that should be configured as a snippet: `puppet.conf` Make sure to add it to your Foreman instance.
